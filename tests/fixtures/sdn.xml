@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<sdnList xmlns="https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/XML">
+  <sdnEntry>
+    <uid>100</uid>
+    <firstName>Robert Gabriel</firstName>
+    <lastName>MUGABE</lastName>
+    <sdnType>Individual</sdnType>
+    <dateOfBirthList>
+      <dateOfBirthItem><uid>1</uid><dateOfBirth>21 Feb 1924</dateOfBirth></dateOfBirthItem>
+    </dateOfBirthList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>200</uid>
+    <firstName>Allaa</firstName>
+    <lastName>AL-SAMAHY</lastName>
+    <sdnType>Individual</sdnType>
+    <akaList>
+      <aka><uid>2</uid><type>a.k.a.</type><category>strong</category><firstName>Ala</firstName><lastName>SAMAHI</lastName></aka>
+    </akaList>
+    <dateOfBirthList>
+      <dateOfBirthItem><uid>3</uid><dateOfBirth>1976</dateOfBirth></dateOfBirthItem>
+    </dateOfBirthList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>300</uid>
+    <lastName>JAMES LEE TRADING</lastName>
+    <sdnType>Entity</sdnType>
+  </sdnEntry>
+</sdnList>
